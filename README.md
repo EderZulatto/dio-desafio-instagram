@@ -1,2 +1,2 @@
 # dio-desafio-instagram
-Repositório do desafio de projeto referente ao treinamento "HTML5/CSS3 Flexbox e JS". O objetivo foi recriar a página inicial do Instagram.
+Desafio de projeto para reconstruir a página de login do Instagram. Foi utilizado HTML5 e CSS3 com Flexbox, para criar uma páginal responsiva também para dispositiveis portáteis (smartphone e tablet).
